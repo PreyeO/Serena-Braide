@@ -1,10 +1,12 @@
+import LOGO from "../assets/logo1.png";
+
 const Landing = () => {
   return (
-    <main>
-      <div>
-        <h1>SERENA BRAIDE</h1>
-        <h3>LAUNCHING SOON!!!</h3>
+    <main className="hero">
+      <div className="logo">
+        <img src={LOGO} alt="logo" />
       </div>
+      <div></div>
     </main>
   );
 };
