@@ -1,12 +1,15 @@
-import LOGO from "../assets/logo1.png";
+import Hero from "../components/Hero";
 
 const Landing = () => {
   return (
-    <main className="container">
-      <div className="logo">
-        <img src={LOGO} alt="logo" />
+    <main className="main-container">
+      {/* <div className="container">
+        <h3>LAUNCHING SOON!!!</h3>
       </div>
-      <h3>LAUNCHING SOON!!!</h3>
+      <div className="animation-container">
+        <Reordering />
+      </div> */}
+      <Hero />
     </main>
   );
 };
