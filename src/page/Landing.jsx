@@ -2,11 +2,11 @@ import LOGO from "../assets/logo1.png";
 
 const Landing = () => {
   return (
-    <main className="hero">
+    <main className="container">
       <div className="logo">
         <img src={LOGO} alt="logo" />
       </div>
-      <div></div>
+      <h3>LAUNCHING SOON!!!</h3>
     </main>
   );
 };
