@@ -12,9 +12,10 @@ body {
 }
 section {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  padding-top: 10px;
+  padding-top: 50px;
+  justify-content: space-between;
 }
 .container {
   display: flex;
@@ -149,7 +150,8 @@ h3 {
     justify-content: center;
     text-align: center;
     flex-direction: column;
-    padding-top: 50px;
+
+    height: auto;
   }
   body {
     padding-left: 10px;
