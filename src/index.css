@@ -22,7 +22,6 @@ section {
   flex-direction: column;
   gap: 10px;
   color: white;
-  width: 50%;
 }
 h1 {
   font-size: 80px;
