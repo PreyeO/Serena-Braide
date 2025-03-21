@@ -2,7 +2,7 @@ import Hero from "../components/Hero";
 
 const Landing = () => {
   return (
-    <main className="main-container">
+    <main className="main-container min-h-screen">
       {/* <div className="container">
         <h3>LAUNCHING SOON!!!</h3>
       </div>
