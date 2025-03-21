@@ -52,18 +52,18 @@ span {
   color: #f5f5f5;
 }
 nav {
-  height: 120px;
+  height: 130px;
   display: flex;
   align-items: center;
   position: absolute;
   padding-left: 50px;
   padding-right: 50px;
   width: 100%;
-  padding-top: 20px;
+  padding-top: 30px;
 }
 .logo img {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 100px;
 }
 
 h3 {
